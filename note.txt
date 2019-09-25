@@ -1,0 +1,6 @@
+﻿#load the dataset
+data=pd.read_csv('F:\old\my videos\MACHINE LEARNING\Ml projects\creditcardfraud\creditcard.csv')
+NOTE: if this datadet dosent load then try the code
+data=pd.read_csv('creditcard.csv')
+
+and this also dosen't work then try to give specific address where you have stored tha data'creditcard.csv'

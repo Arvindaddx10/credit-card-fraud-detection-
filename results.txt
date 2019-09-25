@@ -1,0 +1,21 @@
+﻿Isolation Forest: 259
+0.9977265345891523
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    113737
+           1       0.30      0.31      0.31       186
+
+    accuracy                           1.00    113923
+   macro avg       0.65      0.65      0.65    113923
+weighted avg       1.00      1.00      1.00    113923
+
+Local Outlier Factor: 359
+0.9968487487162382
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00    113737
+           1       0.04      0.04      0.04       186
+
+    accuracy                           1.00    113923
+   macro avg       0.52      0.52      0.52    113923
+weighted avg       1.00      1.00      1.00    113923
